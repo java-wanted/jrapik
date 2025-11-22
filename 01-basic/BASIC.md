@@ -128,3 +128,12 @@ Solve the following interactive numeric problem:
 - Output the number read from the terminal
 
   The output must be provided in the form 'You entered the number NUMBER'.
+
+Solve the following naming problem:
+
+- Prompt the name of a user and output it onto a terminal
+
+  The output must be in the form:
+
+      What is your name?
+      NAME
