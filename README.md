@@ -18,6 +18,12 @@ the course *Training on Solving problems in Java* bought by me on [Stepik][1].
 But it is not intended to be a precise solution of the only issues of the course
 or to be based on the only materials of the course.
 
+## CONTENT
+
+There are topics of the course:
+
+- [Basic](01-basic/BASIC.md)
+
 ## AUTHOR
 
   Boris Stankevich <microsoft-wanted@yandex.ru>.
