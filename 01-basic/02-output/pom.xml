@@ -29,5 +29,6 @@
         <module>ignam</module>
         <module>pnum</module>
         <module>fnum</module>
+        <module>tout</module>
     </modules>
 </project>

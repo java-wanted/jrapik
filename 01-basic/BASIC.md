@@ -156,3 +156,10 @@ Solve the following previous-next numerical problem:
 Solve the following four number problem:
 
 - Read four numbers and output them to terminal, space separated.
+
+Solve the following two string problem:
+
+- Output the following two string onto a terminal
+
+      5 10
+      7 cm
