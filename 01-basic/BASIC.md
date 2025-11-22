@@ -78,3 +78,30 @@ There are particularities of Java:
 
   Java allows to load a specific library into memory in a lazy way, when it is
   required.
+
+### Output to Terminal
+
+There is the basic pattern of Java applications:
+
+    public calss Main {
+        public static void main(String []argv) {
+            INSTRACTIONS
+        }
+    }
+
+There are instructions to output an information onto a terminal:
+
+    System.out.println( INFORMATION );
+    System.out.print( INFORMATION );
+
+The former instructions terminates the output with codes for line feed and
+carriage return.
+
+There is a library to read data from a terminal, *java.util.Scanner*. For
+example, there are operations:
+
+- *next* - read data until the first space character
+
+- *nextLine* - read data until the end of the line
+
+- *nextInt* - read data as an *int* number
