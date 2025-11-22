@@ -23,5 +23,6 @@
     <modules>
         <module>nout</module>
         <module>lout</module>
+        <module>pout</module>
     </modules>
 </project>

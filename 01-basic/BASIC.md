@@ -116,3 +116,9 @@ Solve the following three number problem:
 Solve the following two number problem:
 
 - Output numbers 50 and 10 onto a terminal, one per line
+
+Solve the following one number problem:
+
+- Output the number PI, with three decimal places
+
+  It is prohibited to output a string like '3.142'.
