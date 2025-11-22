@@ -143,3 +143,12 @@ Solve the following greeting problem:
 - Read the name of a user and greet her
 
   The output must be in the form 'Hello, NAME!".
+
+Solve the following previous-next numerical problem:
+
+- Read a number and print the next and previous one
+
+  The output must be in the form:
+
+      The next number after NUMBER is NEXT
+      For the number NUMBER, the previous one is PREVIOUS
