@@ -122,3 +122,9 @@ Solve the following one number problem:
 - Output the number PI, with three decimal places
 
   It is prohibited to output a string like '3.142'.
+
+Solve the following interactive numeric problem:
+
+- Output the number read from the terminal
+
+  The output must be provided in the form 'You entered the number NUMBER'.
