@@ -22,5 +22,6 @@
 
     <modules>
         <module>nout</module>
+        <module>lout</module>
     </modules>
 </project>

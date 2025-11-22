@@ -112,3 +112,7 @@ Solve the following three number problem:
 
   It is prohibited to output a string like '31 18 97', the numbers must
   be involved.
+
+Solve the following two number problem:
+
+- Output numbers 50 and 10 onto a terminal, one per line
