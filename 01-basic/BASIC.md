@@ -163,3 +163,10 @@ Solve the following two string problem:
 
       5 10
       7 cm
+
+Solve the following two number input problem:
+
+- Read two numbers and output them in the form:
+
+      100 FIRST
+      1949 SECOND

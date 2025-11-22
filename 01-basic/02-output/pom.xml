@@ -30,5 +30,6 @@
         <module>pnum</module>
         <module>fnum</module>
         <module>tout</module>
+        <module>tnum</module>
     </modules>
 </project>
