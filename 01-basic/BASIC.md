@@ -105,3 +105,10 @@ example, there are operations:
 - *nextLine* - read data until the end of the line
 
 - *nextInt* - read data as an *int* number
+
+Solve the following three number problem:
+
+- Output numbers 31, 18 and 79 onto a terminal, space separated.
+
+  It is prohibited to output a string like '31 18 97', the numbers must
+  be involved.
