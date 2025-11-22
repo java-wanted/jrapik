@@ -152,3 +152,7 @@ Solve the following previous-next numerical problem:
 
       The next number after NUMBER is NEXT
       For the number NUMBER, the previous one is PREVIOUS
+
+Solve the following four number problem:
+
+- Read four numbers and output them to terminal, space separated.

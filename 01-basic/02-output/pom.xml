@@ -28,5 +28,6 @@
         <module>ionam</module>
         <module>ignam</module>
         <module>pnum</module>
+        <module>fnum</module>
     </modules>
 </project>
