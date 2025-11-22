@@ -26,5 +26,6 @@
         <module>pout</module>
         <module>iout</module>
         <module>ionam</module>
+        <module>ignam</module>
     </modules>
 </project>

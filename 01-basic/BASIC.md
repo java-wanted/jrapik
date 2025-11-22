@@ -137,3 +137,9 @@ Solve the following naming problem:
 
       What is your name?
       NAME
+
+Solve the following greeting problem:
+
+- Read the name of a user and greet her
+
+  The output must be in the form 'Hello, NAME!".
