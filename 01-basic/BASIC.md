@@ -219,3 +219,9 @@ There are two constants also:
 In Java, it is possible to convert an integer to a float and vice versa. An integer
 is converted to a float number implicitly, regardless of underflow. But the inverse
 conversion must be explicit.
+
+Output the result of the integer calculation with the formula:
+
+$$ y = 17 x ^ 2 - 6 x + 13, $$
+
+where $x$ is an integer read from the terminal.
