@@ -170,3 +170,25 @@ Solve the following two number input problem:
 
       100 FIRST
       1949 SECOND
+
+### Formula Calculation
+
+There are arithmetic operations in Java:
+
+- Addition
+
+- Subtraction
+
+- Multiplication
+
+- Division
+
+The operations have the following precedence, from highest to lowest:
+
+- Postfix increment and decrement
+
+- Prefix increment and decrement
+
+- Multiplication, division and remainder
+
+- Addition and subtraction
