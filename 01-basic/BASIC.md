@@ -192,3 +192,26 @@ The operations have the following precedence, from highest to lowest:
 - Multiplication, division and remainder
 
 - Addition and subtraction
+
+There are mathematical functions in Java. The Math type provides the following
+functions: *abs*, *acos*, *asin*, *atan*, *cbrt*, *ceil*, *cos*, *cosh*, *exp*,
+*floor*, *floorDiv*, *log*, *log1p*, *log10*, *max*, *min*, *pow*, *random*,
+*rint*, *round*, *ignum*, *sin*, *sinh*, *sqrt*, *tan*, *tanh*, *toDegrees*,
+*toRadians*. For example:
+
+- *cbrt* returns the cube root of a scalar
+
+- *foorDiv* returns the result of integer division of two integers
+
+- *rint* returns a double that is the nearest integer for a double
+
+- *ignum* return 1, 0 or -1 if a scalar is greater, equal or below a zero
+
+- *toDegres* and *toRAdians* converts radian angle to degrees and vice versa
+
+There are two constants also:
+
+- E, a double value, closest to *e*, the base of the natural logarithms
+
+- PI, a double value, closest to *pi*, the ratio of circumference of a circle to
+  its diameter
