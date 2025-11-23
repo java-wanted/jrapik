@@ -22,5 +22,6 @@
 
     <modules>
         <module>icaf</module>
+        <module>fcaf</module>
     </modules>
 </project>

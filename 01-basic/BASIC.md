@@ -225,3 +225,11 @@ Output the result of the integer calculation with the formula:
 $$ y = 17 x ^ 2 - 6 x + 13, $$
 
 where $x$ is an integer read from the terminal.
+
+Output the result of the calculation with the formula:
+
+$$\sqrt{\frac{2 a + \sin \left\lvert 3 a \right\rvert}{3.56}}$$
+
+where $a$ is a number.
+
+There is not need to round the result off.
