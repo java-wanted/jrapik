@@ -215,3 +215,7 @@ There are two constants also:
 
 - PI, a double value, closest to *pi*, the ratio of circumference of a circle to
   its diameter
+
+In Java, it is possible to convert an integer to a float and vice versa. An integer
+is converted to a float number implicitly, regardless of underflow. But the inverse
+conversion must be explicit.
