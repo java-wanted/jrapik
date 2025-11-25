@@ -233,3 +233,12 @@ $$\sqrt{\frac{2 a + \sin \left\lvert 3 a \right\rvert}{3.56}}$$
 where $a$ is a number.
 
 There is not need to round the result off.
+
+Solve the following issue:
+
+- Input two integer numbers
+
+- Output the result of integer calculation of the mean and the geometric mean
+
+  Do not round off, if integers 3 and 4 are provided, the result should be 3
+  and 3.

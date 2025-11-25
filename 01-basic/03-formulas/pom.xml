@@ -23,5 +23,6 @@
     <modules>
         <module>icaf</module>
         <module>fcaf</module>
+        <module>imean</module>
     </modules>
 </project>
