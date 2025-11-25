@@ -242,3 +242,5 @@ Solve the following issue:
 
   Do not round off, if integers 3 and 4 are provided, the result should be 3
   and 3.
+
+Input the radius of a circle. Output its diameter.

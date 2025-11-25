@@ -24,5 +24,6 @@
         <module>icaf</module>
         <module>fcaf</module>
         <module>imean</module>
+        <module>radi</module>
     </modules>
 </project>
