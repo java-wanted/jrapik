@@ -25,5 +25,6 @@
         <module>fcaf</module>
         <module>imean</module>
         <module>radi</module>
+        <module>sweet</module>
     </modules>
 </project>

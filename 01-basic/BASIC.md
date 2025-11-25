@@ -244,3 +244,13 @@ Solve the following issue:
   and 3.
 
 Input the radius of a circle. Output its diameter.
+
+Solve the following program:
+
+- Let 1 kg of sweets, cookies and apples cost 340, 230 and 98 units
+  respectively.
+
+- Let the number of kilograms for each kind are defined as three
+  integers separated by spaces.
+
+- Input the numbers, calculate the total cost and output it onto the terminal.
