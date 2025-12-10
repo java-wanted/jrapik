@@ -26,5 +26,6 @@
         <module>imean</module>
         <module>radi</module>
         <module>sweet</module>
+        <module>wstat</module>
     </modules>
 </project>

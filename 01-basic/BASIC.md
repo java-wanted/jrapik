@@ -254,3 +254,10 @@ Solve the following program:
   integers separated by spaces.
 
 - Input the numbers, calculate the total cost and output it onto the terminal.
+
+Solve the work station problem
+
+- There are prices for a monitor, a system unit, a keyboard and a mouse.
+
+- Input a number and output the total cost of this number of sets of this
+  components.
