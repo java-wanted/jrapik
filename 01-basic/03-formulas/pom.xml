@@ -27,5 +27,6 @@
         <module>radi</module>
         <module>sweet</module>
         <module>wstat</module>
+        <module>tmage</module>
     </modules>
 </project>

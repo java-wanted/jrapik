@@ -261,3 +261,12 @@ Solve the work station problem
 
 - Input a number and output the total cost of this number of sets of this
   components.
+
+Solve middle age problem:
+
+- Input two numbers, the ages of Tany and Mity, in years.
+
+- Output their integral mean age and difference of their ages and the mean in
+  the format:
+
+      The mean is N1, differency for Tany is N2, for Mity is N3
