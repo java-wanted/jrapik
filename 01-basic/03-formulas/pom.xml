@@ -28,5 +28,6 @@
         <module>sweet</module>
         <module>wstat</module>
         <module>tmage</module>
+        <module>cefah</module>
     </modules>
 </project>

@@ -270,3 +270,12 @@ Solve middle age problem:
   the format:
 
       The mean is N1, differency for Tany is N2, for Mity is N3
+
+Solve the degree problem:
+
+- Read a number representing the temperature in degrees Celsius.
+
+- Output this temperature in degrees Fahrenheit.
+
+  To convert the temperature from degrees Celsius degrees to degrees Fahrenheit,
+  multiply its  by 1.8 and add 32.
