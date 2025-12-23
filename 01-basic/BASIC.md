@@ -292,3 +292,8 @@ Solve the collide problem:
   result in the format:
 
       They collides in HORS hours and MINUTES minutes.
+
+Take attention that a one of vehicles is broken and does not move. Thus, it is
+known that if V1, V2, S are 60, 58, 5 respectively, the result is
+
+      The collides in 0 hours and 5 minutes.

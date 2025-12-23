@@ -14,8 +14,10 @@ public class Main
         if (s.hasNextFloat())
             x[n++] = s.nextFloat();
 
-        if (s.hasNextFloat())
-            x[n++] = s.nextFloat();
+        if (s.hasNextFloat()) {
+            s.nextFloat();
+            x[n++] = 0;
+        }
 
         if (s.hasNextFloat())
             x[n++] = s.nextFloat();
