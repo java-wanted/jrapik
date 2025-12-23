@@ -29,5 +29,6 @@
         <module>wstat</module>
         <module>tmage</module>
         <module>cefah</module>
+        <module>coveh</module>
     </modules>
 </project>

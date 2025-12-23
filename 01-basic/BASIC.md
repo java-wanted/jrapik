@@ -279,3 +279,16 @@ Solve the degree problem:
 
   To convert the temperature from degrees Celsius degrees to degrees Fahrenheit,
   multiply its  by 1.8 and add 32.
+
+Solve the collide problem:
+
+- Two vehicles are moving towards each other at constant speeds of V1 and V2
+  km/h respectively.
+
+- Calculate the time it will take for them to collide if the initial distance
+  between them was S km.
+
+  Read three integer numbers, V1, V2 and S, space separated. And output the
+  result in the format:
+
+      They collides in HORS hours and MINUTES minutes.
