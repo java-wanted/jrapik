@@ -297,3 +297,12 @@ Take attention that a one of vehicles is broken and does not move. Thus, it is
 known that if V1, V2, S are 60, 58, 5 respectively, the result is
 
       The collides in 0 hours and 5 minutes.
+
+Solve the backward degree problem:
+
+- Read a number representing the temperature Fahrenheit.
+
+- Output this temperature in degrees Celsius.
+
+  To convert the temperature from degrees Celsius degrees to degrees Fahrenheit,
+  multiply its  by 1.8 and add 32.
