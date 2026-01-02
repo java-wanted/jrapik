@@ -29,5 +29,6 @@
         <module>twoun</module>
         <module>thrdi</module>
         <module>rethr</module>
+        <module>preth</module>
     </modules>
 </project>

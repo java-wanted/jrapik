@@ -380,3 +380,10 @@ Solve the three digit reverse problem
 - Read a three digit number.
 
 - Output a number obtained by reversing the order of the digits in it.
+
+Solve the three digit partial reverse problem
+
+- Read a three digit number.
+
+- Output a number obtained by reversing the order of the second and the
+  first digits in it.
