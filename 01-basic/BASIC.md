@@ -374,3 +374,9 @@ Solve the three digit unit problem:
 
 - Read a three digit number. Output digits of it comma separated,
   starting with the most significant one.
+
+Solve the three digit reverse problem
+
+- Read a three digit number.
+
+- Output a number obtained by reversing the order of the digits in it.

@@ -28,5 +28,6 @@
         <module>twosu</module>
         <module>twoun</module>
         <module>thrdi</module>
+        <module>rethr</module>
     </modules>
 </project>
