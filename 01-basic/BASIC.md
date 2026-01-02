@@ -306,3 +306,18 @@ Solve the backward degree problem:
 
   To convert the temperature from degrees Celsius degrees to degrees Fahrenheit,
   multiply its  by 1.8 and add 32.
+
+
+### Integer Arithmetic
+
+There are integer arithmetic operations in Java:
+
+- addition
+
+- subtraction
+
+- multiplication
+
+- division
+
+- taking the remainder of a division
