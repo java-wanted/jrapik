@@ -364,3 +364,8 @@ Solve the day hours problem:
 Solve the two digit sum problem:
 
 - Read a two digit number. Output the sum of digits in it.
+
+Solve the two digit unit problem:
+
+- Read a two digit number. Output the number of tens and the number
+  of units in it.

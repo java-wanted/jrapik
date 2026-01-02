@@ -26,5 +26,6 @@
         <module>hopro</module>
         <module>dahou</module>
         <module>twosu</module>
+        <module>twoun</module>
     </modules>
 </project>
