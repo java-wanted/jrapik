@@ -337,3 +337,12 @@ Solve the integral apple problem:
 
 - Print the number of apple that are given to each student and the number
   of apples that left in the bucket.
+
+Solve the railway compartment problem:
+
+- There are 9 compartments in a carriage, for 4 passengers each
+
+- Read the number of a berth in the carriage and output the number of the
+  related compartment.
+
+  The berths and compartments are numberer in order, starting with 1.

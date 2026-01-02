@@ -22,5 +22,6 @@
 
     <modules>
         <module>divap</module>
+        <module>compa</module>
     </modules>
 </project>
