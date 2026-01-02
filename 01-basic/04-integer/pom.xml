@@ -24,5 +24,6 @@
         <module>divap</module>
         <module>compa</module>
         <module>hopro</module>
+        <module>dahou</module>
     </modules>
 </project>

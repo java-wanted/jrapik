@@ -354,3 +354,9 @@ Solve the housing floor problem:
 - Read the number of an apartment and output the floor number.
 
   The apartments and floors are numbered in order, starting with 1.
+
+Solve the day hours problem:
+
+- Read the number of seconds passed since the start of a day.
+
+- Output the integer number of hours passed during this time.
