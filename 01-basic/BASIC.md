@@ -326,3 +326,14 @@ In Java, the conversion of a floating point number to an integer one must
 be done explicitly:
 
     int x = (int)1.0f;
+
+Solve the integral apple problem:
+
+- Read two numbers: N - the number of students, k - the number of
+  apples in a bucket.
+
+- Distribute the apples across the students in such a way that each student
+  are given with equal integer number of apples.
+
+- Print the number of apple that are given to each student and the number
+  of apples that left in the bucket.

@@ -64,5 +64,6 @@
     <modules>
         <module>02-output</module>
         <module>03-formulas</module>
+        <module>04-integer</module>
     </modules>
 </project>
