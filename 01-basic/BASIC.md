@@ -321,3 +321,8 @@ There are integer arithmetic operations in Java:
 - division
 
 - taking the remainder of a division
+
+In Java, the conversion of a floating point number to an integer one must
+be done explicitly:
+
+    int x = (int)1.0f;
