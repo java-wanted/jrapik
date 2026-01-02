@@ -387,3 +387,9 @@ Solve the three digit partial reverse problem
 
 - Output a number obtained by reversing the order of the second and the
   first digits in it.
+
+Solve the four digit sum problem:
+
+- Read a four digit number.
+
+- Output the sum of digits in it.

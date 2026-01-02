@@ -30,5 +30,6 @@
         <module>thrdi</module>
         <module>rethr</module>
         <module>preth</module>
+        <module>fousu</module>
     </modules>
 </project>
