@@ -27,5 +27,6 @@
         <module>dahou</module>
         <module>twosu</module>
         <module>twoun</module>
+        <module>thrdi</module>
     </modules>
 </project>

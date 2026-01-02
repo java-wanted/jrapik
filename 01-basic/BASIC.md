@@ -369,3 +369,8 @@ Solve the two digit unit problem:
 
 - Read a two digit number. Output the number of tens and the number
   of units in it.
+
+Solve the three digit unit problem:
+
+- Read a three digit number. Output digits of it comma separated,
+  starting with the most significant one.
