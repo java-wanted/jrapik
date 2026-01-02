@@ -360,3 +360,7 @@ Solve the day hours problem:
 - Read the number of seconds passed since the start of a day.
 
 - Output the integer number of hours passed during this time.
+
+Solve the two digit sum problem:
+
+- Read a two digit number. Output the sum of digits in it.

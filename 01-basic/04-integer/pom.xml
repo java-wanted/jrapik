@@ -25,5 +25,6 @@
         <module>compa</module>
         <module>hopro</module>
         <module>dahou</module>
+        <module>twosu</module>
     </modules>
 </project>
