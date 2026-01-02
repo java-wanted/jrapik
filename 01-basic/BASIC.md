@@ -346,3 +346,11 @@ Solve the railway compartment problem:
   related compartment.
 
   The berths and compartments are numberer in order, starting with 1.
+
+Solve the housing floor problem:
+
+- There are 15 apartments in an entrance of a five-story apartment building.
+
+- Read the number of an apartment and output the floor number.
+
+  The apartments and floors are numbered in order, starting with 1.
