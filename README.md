@@ -24,6 +24,8 @@ There are topics of the course:
 
 - [Basic](01-basic/BASIC.md)
 
+- [Branches](02-branches/BRANCHES.md)
+
 ## AUTHOR
 
   Boris Stankevich <microsoft-wanted@yandex.ru>.
