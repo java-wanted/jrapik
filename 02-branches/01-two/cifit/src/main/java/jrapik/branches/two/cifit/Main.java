@@ -21,8 +21,8 @@ public class Main
         }
 
         if (n == 2) {
-            float cir_s = x[0];
-            float tri_s = x[1];
+            float cir_s = x[1];
+            float tri_s = x[0];
 
             double cir_r2 = cir_s / Math.PI;
             double tri_a2 = 4 * tri_s / Math.sqrt(3);

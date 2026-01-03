@@ -54,8 +54,8 @@ Solve the metric comparison problem:
 
 Solve the circle fitting problem:
 
-- Read two number, the square of a circle and the square of an equilateral
-  triangle.
+- Read two number, the square of an equilateral triangle and the square of a
+  circle.
 
 - Print the following message if the circle fits inside the triangle:
 
