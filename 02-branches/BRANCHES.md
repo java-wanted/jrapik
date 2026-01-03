@@ -12,3 +12,12 @@ lesser or equal to.
 There are logical operations, that combines results of comparison ones: *or*,
 *and*, *not*, *exclusive or*. There are non short-circuit variants of *or*
 and *and* operations also.
+
+Solve the floating comparison problem:
+
+- Read two floating point numbers.
+
+- Output which number is greater and which is smaller:
+
+      X is greater than Y
+      Y is smaller than X
