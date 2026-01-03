@@ -22,5 +22,6 @@
 
     <modules>
         <module>floco</module>
+        <module>mimaf</module>
     </modules>
 </project>

@@ -21,3 +21,14 @@ Solve the floating comparison problem:
 
       X is greater than Y
       Y is smaller than X
+
+Solve the minimax floating problem:
+
+- Read two floating point number.
+
+- Output the minimum and the maximum numbers:
+
+      The maximum value is X.
+      The minimum value is Y.
+
+  Only one comparison operator must be used.
