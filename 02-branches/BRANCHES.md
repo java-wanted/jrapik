@@ -60,3 +60,11 @@ Solve the circle fitting problem:
 - Print the following message if the circle fits inside the triangle:
 
       It fits.
+
+Solve the integer division problem:
+
+- Read to integer numbers, m and n.
+
+- If m is divided by n with a zero remainder, output the quotient.
+
+- Otherwise, output that m is not divisible by n.

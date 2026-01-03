@@ -26,5 +26,6 @@
         <module>imdis</module>
         <module>mecom</module>
         <module>cifit</module>
+        <module>dizer</module>
     </modules>
 </project>
