@@ -23,5 +23,6 @@
     <modules>
         <module>floco</module>
         <module>mimaf</module>
+        <module>imdis</module>
     </modules>
 </project>

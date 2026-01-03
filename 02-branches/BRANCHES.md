@@ -32,3 +32,13 @@ Solve the minimax floating problem:
       The minimum value is Y.
 
   Only one comparison operator must be used.
+
+Solve the imperial comparison problem:
+
+- Read two numbers, a distance in kilometers and a distance in foots.
+
+- Output which of the distances is greater. For example:
+
+      The distance in foots is greater.
+
+  One foot equals 0.3048 meters.
