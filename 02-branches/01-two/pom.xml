@@ -25,5 +25,6 @@
         <module>mimaf</module>
         <module>imdis</module>
         <module>mecom</module>
+        <module>cifit</module>
     </modules>
 </project>

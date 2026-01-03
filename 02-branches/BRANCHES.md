@@ -51,3 +51,12 @@ Solve the metric comparison problem:
 - Output which of the speeds is greater. For example:
 
       The speed in m/s is greater.
+
+Solve the circle fitting problem:
+
+- Read two number, the square of a circle and the square of an equilateral
+  triangle.
+
+- Print the following message if the circle fits inside the triangle:
+
+      It fits.
