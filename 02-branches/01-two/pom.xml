@@ -24,5 +24,6 @@
         <module>floco</module>
         <module>mimaf</module>
         <module>imdis</module>
+        <module>mecom</module>
     </modules>
 </project>

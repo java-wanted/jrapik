@@ -42,3 +42,12 @@ Solve the imperial comparison problem:
       The distance in foots is greater.
 
   One foot equals 0.3048 meters.
+
+Solve the metric comparison problem:
+
+- Read two number, a speed in kilometers per hour and a speed in meters per
+  second.
+
+- Output which of the speeds is greater. For example:
+
+      The speed in m/s is greater.
