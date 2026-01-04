@@ -68,3 +68,11 @@ Solve the integer division problem:
 - If m is divided by n with a zero remainder, output the quotient.
 
 - Otherwise, output that m is not divisible by n.
+
+Solve the grand three digits problem:
+
+- Read an three digit integer.
+
+- Output which a digit is greater, the first or the last, e.g.
+
+      The last digit is greater.

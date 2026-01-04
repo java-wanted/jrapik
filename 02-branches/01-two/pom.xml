@@ -27,5 +27,6 @@
         <module>mecom</module>
         <module>cifit</module>
         <module>dizer</module>
+        <module>gredi</module>
     </modules>
 </project>
