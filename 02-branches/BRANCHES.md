@@ -115,3 +115,19 @@ Solve the three digit six problem:
 - Output whether it contains the digit six. For example:
 
       The number contains the digit 6.
+
+
+### Optional Alternative
+
+In the if-else statement, only the if-branch is mandatory. The else branches
+are optional.
+
+Solve the number difference problem:
+
+- Read two float pointing numbers.
+
+- Output whether the first is greater than the second.
+
+- Output whether the second is greater than the first.
+
+Use two if-else statements without optional branches.
