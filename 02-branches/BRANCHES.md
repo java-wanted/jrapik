@@ -107,3 +107,11 @@ Solve the following traffic light problem:
 - Output which signal is lighting at this moment, for example:
 
       The greed light is on.
+
+Solve the three digit six problem:
+
+- Read a three digit integer.
+
+- Output whether it contains the digit six. For example:
+
+      The number contains the digit 6.

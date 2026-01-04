@@ -30,5 +30,6 @@
         <module>gredi</module>
         <module>fopas</module>
         <module>trali</module>
+        <module>disix</module>
     </modules>
 </project>
