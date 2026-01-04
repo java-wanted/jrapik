@@ -28,5 +28,6 @@
         <module>cifit</module>
         <module>dizer</module>
         <module>gredi</module>
+        <module>fopas</module>
     </modules>
 </project>

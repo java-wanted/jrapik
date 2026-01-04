@@ -76,3 +76,12 @@ Solve the grand three digits problem:
 - Output which a digit is greater, the first or the last, e.g.
 
       The last digit is greater.
+
+Solve the pair sum digit problem:
+
+- Read a four digit integer.
+
+- Output whether the sum of the first digits equals to the sum of the last
+  ones. For example, if sums are not equal, output:
+
+      The sum of the first two digits does not equal to the sum of two last.
