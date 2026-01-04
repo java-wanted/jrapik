@@ -29,5 +29,6 @@
         <module>dizer</module>
         <module>gredi</module>
         <module>fopas</module>
+        <module>trali</module>
     </modules>
 </project>

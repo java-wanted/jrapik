@@ -85,3 +85,25 @@ Solve the pair sum digit problem:
   ones. For example, if sums are not equal, output:
 
       The sum of the first two digits does not equal to the sum of two last.
+
+A pedestrian traffic light is programmed in the following way:
+
+- The green light is on for three minutes after the beginning of every hour.
+
+- Then the red light is on for two minutes.
+
+- Then the greed light is on for three minutes again and so on.
+
+Take attention that the light is switched after the beginning of an hour. It
+means that the previous light is on at the beginning of it.
+
+Solve the following traffic light problem:
+
+- Read a floating point number, the number of minutes since the beginning of an
+  hour, from the string in the format:
+
+      Clock MINUTES
+
+- Output which signal is lighting at this moment, for example:
+
+      The greed light is on.
