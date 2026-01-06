@@ -162,3 +162,11 @@ Solve the absolute number problem:
 
 Do not use standard operations to calculate the absolute value. Use the if
 statement without optional branches.
+
+Solve the absolute mean problem:
+
+- Read two float pointing numbers.
+
+- Output the mean of absolute values of them.
+
+Do not use standard operations to calculate the absolute values.

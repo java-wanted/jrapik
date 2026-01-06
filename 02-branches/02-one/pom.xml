@@ -25,5 +25,6 @@
         <module>mamin</module>
         <module>fomax</module>
         <module>abval</module>
+        <module>amean</module>
     </modules>
 </project>
