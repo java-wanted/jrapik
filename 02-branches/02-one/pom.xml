@@ -22,5 +22,6 @@
 
     <modules>
         <module>nudif</module>
+        <module>mamin</module>
     </modules>
 </project>

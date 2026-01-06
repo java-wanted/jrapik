@@ -131,3 +131,17 @@ Solve the number difference problem:
 - Output whether the second is greater than the first.
 
 Use two if-else statements without optional branches.
+
+Solve the number minimax problem:
+
+- Read two float pointing numbers.
+
+- Output the greatest and the smallest numbers:
+
+      X is greater than Y.
+
+- Output the smallest and greatest numbers:
+
+      Y is smaller than X.
+
+Use only one if-else statement without optional branches.
