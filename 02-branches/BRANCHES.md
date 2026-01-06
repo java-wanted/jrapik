@@ -153,3 +153,12 @@ Solve the four number maximum problem:
 - Output the value of the greatest of them:
 
         X is the greatest number.
+
+Solve the absolute number problem:
+
+- Read a float pointing number.
+
+- Output its absolute value.
+
+Do not use standard operations to calculate the absolute value. Use the if
+statement without optional branches.

@@ -24,5 +24,6 @@
         <module>nudif</module>
         <module>mamin</module>
         <module>fomax</module>
+        <module>abval</module>
     </modules>
 </project>
