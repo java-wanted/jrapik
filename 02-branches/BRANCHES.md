@@ -145,3 +145,11 @@ Solve the number minimax problem:
       Y is smaller than X.
 
 Use only one if-else statement without optional branches.
+
+Solve the four number maximum problem:
+
+- Read four float pointing numbers.
+
+- Output the value of the greatest of them:
+
+        X is the greatest number.
