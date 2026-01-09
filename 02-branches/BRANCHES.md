@@ -234,3 +234,11 @@ Solve the boxer-lover problem:
 
 - Output her weight class, lightweight - up to 60 kg, light welterweight - up to
   64 kg, welterweight - up to 69 kg.
+
+Solve the two integer division problem:
+
+- Read two different integer numbers.
+
+- Output which the number is a divisor of an other one.
+
+- Output that no one of numbers is a divisor of the other otherwise.
