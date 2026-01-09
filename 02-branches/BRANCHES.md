@@ -242,3 +242,10 @@ Solve the two integer division problem:
 - Output which the number is a divisor of an other one.
 
 - Output that no one of numbers is a divisor of the other otherwise.
+
+Solve the three integer smallest problem:
+
+- Read three different integer numbers.
+
+- Output the number of the number that is the smallest. For example,
+  "The third number is smallest".
