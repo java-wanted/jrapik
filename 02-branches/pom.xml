@@ -64,5 +64,6 @@
     <modules>
         <module>01-two</module>
         <module>02-one</module>
+        <module>03-three</module>
     </modules>
 </project>

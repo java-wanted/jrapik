@@ -210,3 +210,12 @@ Solve the integer positive sum problem.
 - Read four integer numbers.
 
 - Output the sum of those numbers that are positive.
+
+### Three and More Alternatives
+
+A socker team is given by 3 points if it wins a match, 0 if loses, and 1 if it
+is a draw. Solve the socker score problem:
+
+- Read an integer, the number of points scored by a socker team in a match.
+
+- Output the match result as text: win, loss, or draw.
