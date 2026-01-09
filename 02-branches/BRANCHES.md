@@ -265,3 +265,9 @@ Solve the sum of the largest problem:
 - Output the sum of the two largest among them.
 
 The result must be provided with one digit after the decimal point.
+
+Solve the product of the two minimal problem:
+
+- Read three integer numbers.
+
+- Output the product of the two smallest among them.

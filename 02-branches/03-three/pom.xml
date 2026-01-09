@@ -27,5 +27,6 @@
         <module>twodi</module>
         <module>thres</module>
         <module>sular</module>
+        <module>prosm</module>
     </modules>
 </project>
