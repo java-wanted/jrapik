@@ -188,3 +188,11 @@ Solve the number in range problem:
 - If no one of the numbers belongs to this interval, output the message:
 
       None of the numberts are within the interval.
+
+Solve the integer even problem:
+
+- Read four integer numbers.
+
+- Output the number of even numbers if there is at least one such a number.
+
+- Output that there are no even numbers otherwise.

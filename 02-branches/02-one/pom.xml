@@ -28,5 +28,6 @@
         <module>amean</module>
         <module>srooc</module>
         <module>nuran</module>
+        <module>evnum</module>
     </modules>
 </project>
