@@ -23,5 +23,6 @@
     <modules>
         <module>sosco</module>
         <module>grage</module>
+        <module>bowei</module>
     </modules>
 </project>

@@ -227,3 +227,10 @@ Solve the greatest age problem:
 - Output who is older, for example, "Vasy is older than Mity".
 
 - Output "They are the same age" if their ages are equal.
+
+Solve the boxer-lover problem:
+
+- Read a float pointing number, the weight of a boxer-lover in kilograms.
+
+- Output her weight class, lightweight - up to 60 kg, light welterweight - up to
+  64 kg, welterweight - up to 69 kg.
