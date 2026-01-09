@@ -257,3 +257,11 @@ Solve the tree integer minimax problem:
 - Output which of the numbers is the smallest.
 
 - Output which of the numbers is the largest.
+
+Solve the sum of the largest problem:
+
+- Read three float pointing numbers.
+
+- Output the sum of the two largest among them.
+
+The result must be provided with one digit after the decimal point.
