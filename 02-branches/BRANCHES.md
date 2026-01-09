@@ -204,3 +204,9 @@ Solve the integer multiply sum problem.
 - Output the sum of those numbers that are divisible by three.
 
   Do not use the for statement.
+
+Solve the integer positive sum problem.
+
+- Read four integer numbers.
+
+- Output the sum of those numbers that are positive.

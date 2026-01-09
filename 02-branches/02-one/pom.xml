@@ -30,5 +30,6 @@
         <module>nuran</module>
         <module>evnum</module>
         <module>musum</module>
+        <module>posum</module>
     </modules>
 </project>
