@@ -26,5 +26,6 @@
         <module>fomax</module>
         <module>abval</module>
         <module>amean</module>
+        <module>srooc</module>
     </modules>
 </project>

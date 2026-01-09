@@ -170,3 +170,10 @@ Solve the absolute mean problem:
 - Output the mean of absolute values of them.
 
 Do not use standard operations to calculate the absolute values.
+
+Solve the square root comparison problem:
+
+- Read two integer numbers.
+
+- Output the second number multiplied by 5 if its square root is lesser
+  than the first number.
