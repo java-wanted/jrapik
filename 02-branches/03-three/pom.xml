@@ -26,5 +26,6 @@
         <module>bowei</module>
         <module>twodi</module>
         <module>thres</module>
+        <module>threl</module>
     </modules>
 </project>

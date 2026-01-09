@@ -249,3 +249,11 @@ Solve the three integer smallest problem:
 
 - Output the number of the number that is the smallest. For example,
   "The third number is smallest".
+
+Solve the tree integer minimax problem:
+
+- Read three different integer numbers.
+
+- Output which of the numbers is the smallest.
+
+- Output which of the numbers is the largest.
