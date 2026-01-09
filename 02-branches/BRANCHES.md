@@ -196,3 +196,11 @@ Solve the integer even problem:
 - Output the number of even numbers if there is at least one such a number.
 
 - Output that there are no even numbers otherwise.
+
+Solve the integer multiply sum problem.
+
+- Read four integer numbers.
+
+- Output the sum of those numbers that are divisible by three.
+
+  Do not use the for statement.

@@ -29,5 +29,6 @@
         <module>srooc</module>
         <module>nuran</module>
         <module>evnum</module>
+        <module>musum</module>
     </modules>
 </project>
