@@ -177,3 +177,14 @@ Solve the square root comparison problem:
 
 - Output the second number multiplied by 5 if its square root is lesser
   than the first number.
+
+Solve the number in range problem:
+
+- Read three float pointing numbers.
+
+- Output those numbers that belongs to the interval from 1.6 to 3.8, including
+  the boundaries.
+
+- If no one of the numbers belongs to this interval, output the message:
+
+      None of the numberts are within the interval.

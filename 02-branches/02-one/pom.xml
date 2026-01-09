@@ -27,5 +27,6 @@
         <module>abval</module>
         <module>amean</module>
         <module>srooc</module>
+        <module>nuran</module>
     </modules>
 </project>
