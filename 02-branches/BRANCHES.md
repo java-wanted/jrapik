@@ -219,3 +219,11 @@ is a draw. Solve the socker score problem:
 - Read an integer, the number of points scored by a socker team in a match.
 
 - Output the match result as text: win, loss, or draw.
+
+Solve the greatest age problem:
+
+- Read two integers, the ages of Mity an Vasy.
+
+- Output who is older, for example, "Vasy is older than Mity".
+
+- Output "They are the same age" if their ages are equal.

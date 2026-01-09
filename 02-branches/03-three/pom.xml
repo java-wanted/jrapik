@@ -22,5 +22,6 @@
 
     <modules>
         <module>sosco</module>
+        <module>grage</module>
     </modules>
 </project>
