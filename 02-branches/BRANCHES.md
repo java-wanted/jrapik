@@ -316,3 +316,10 @@ Solve the days in month problem:
   example, if the number is 2, output "There are 28 days."
 
   Do not use the if statement with more than three branches.
+
+The name of the playing card suits are assigned numbers: spades - 1, clubs -2,
+diamonds - 3, hearts - 4. Solve the card suit enumeration problem:
+
+- Read an integer number from 1 to 4, meaning the suit of a card.
+
+- Output the name of this suit.

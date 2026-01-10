@@ -24,5 +24,6 @@
         <module>dawee</module>
         <module>seyea</module>
         <module>damon</module>
+        <module>casui</module>
     </modules>
 </project>
