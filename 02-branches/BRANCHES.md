@@ -292,3 +292,11 @@ Solve the Cartesian quadrant problem:
 - Output which Cartesian quadrant the point belongs to. For example:
 
       It is in quadrant 3.
+
+### Several Alternatives
+
+Solve the day of the week problem:
+
+- Read an integer number from 1 to 7, the ordinal number of a day of a week.
+
+- Output the name of this day, e.g. "It is Sunday."
