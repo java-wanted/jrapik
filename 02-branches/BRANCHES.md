@@ -282,3 +282,13 @@ Solve the middle number mean problem:
 
   The middle number of a set of three numbers is a number that is greater
   than the smallest number and lesser that the largest number.
+
+Solve the Cartesian quadrant problem:
+
+- Read two numbers, the coordinates of a point on a plane.
+
+  The numbers are not equal to zero.
+
+- Output which Cartesian quadrant the point belongs to. For example:
+
+      It is in quadrant 3.

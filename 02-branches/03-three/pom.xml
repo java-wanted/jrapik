@@ -29,5 +29,6 @@
         <module>sular</module>
         <module>prosm</module>
         <module>mitwo</module>
+        <module>caqua</module>
     </modules>
 </project>
