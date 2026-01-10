@@ -22,5 +22,6 @@
 
     <modules>
         <module>dawee</module>
+        <module>seyea</module>
     </modules>
 </project>

@@ -300,3 +300,10 @@ Solve the day of the week problem:
 - Read an integer number from 1 to 7, the ordinal number of a day of a week.
 
 - Output the name of this day, e.g. "It is Sunday."
+
+Solve the season of the year problem:
+
+- Read an integer number from 1 to 12, the ordinal number of a month of a year.
+
+- Output the name of the season to which this month belongs. For example,
+  "It is winter."
