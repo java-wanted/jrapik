@@ -23,5 +23,6 @@
     <modules>
         <module>dawee</module>
         <module>seyea</module>
+        <module>damon</module>
     </modules>
 </project>

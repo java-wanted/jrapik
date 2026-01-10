@@ -307,3 +307,12 @@ Solve the season of the year problem:
 
 - Output the name of the season to which this month belongs. For example,
   "It is winter."
+
+Solve the days in month problem:
+
+- Read an integer number from 1 to 12, the ordinal number of a month of a year.
+
+- Output the number of days in this month, assuming it is not a leap year. For
+  example, if the number is 2, output "There are 28 days."
+
+  Do not use the if statement with more than three branches.
