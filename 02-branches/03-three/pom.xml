@@ -28,5 +28,6 @@
         <module>thres</module>
         <module>sular</module>
         <module>prosm</module>
+        <module>mitwo</module>
     </modules>
 </project>

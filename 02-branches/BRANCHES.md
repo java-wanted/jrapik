@@ -271,3 +271,14 @@ Solve the product of the two minimal problem:
 - Read three integer numbers.
 
 - Output the product of the two smallest among them.
+
+Solve the middle number mean problem:
+
+- Read two sets of three float pointing numbers.
+
+  Each set consists of different numbers.
+
+- Output the mean of the middle number of each set.
+
+  The middle number of a set of three numbers is a number that is greater
+  than the smallest number and lesser that the largest number.
