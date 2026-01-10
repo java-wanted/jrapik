@@ -25,5 +25,6 @@
         <module>seyea</module>
         <module>damon</module>
         <module>casui</module>
+        <module>canam</module>
     </modules>
 </project>

@@ -323,3 +323,18 @@ diamonds - 3, hearts - 4. Solve the card suit enumeration problem:
 - Read an integer number from 1 to 4, meaning the suit of a card.
 
 - Output the name of this suit.
+
+The name of the playing card suits are assigned numbers: spades - 1, clubs -2,
+diamonds - 3, hearts - 4. Solve the card suit enumeration problem:
+
+- Read an integer number from 1 to 4, meaning the suit of a card.
+
+- Output the name of this suit.
+
+Picture playing cards are assigned numbers: Jack - 11, Queen - 12, King - 13,
+Ace - 14. Pip cards are assigned numbers in accord to their values. Solve the
+card name enumeration problem:
+
+- Read an integer number from 6 to 14, meaning a card.
+
+- Output the name of this card.
