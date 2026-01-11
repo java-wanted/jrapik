@@ -22,5 +22,6 @@
 
     <modules>
         <module>conum</module>
+        <module>repen</module>
     </modules>
 </project>
