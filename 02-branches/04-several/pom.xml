@@ -26,5 +26,6 @@
         <module>damon</module>
         <module>casui</module>
         <module>canam</module>
+        <module>rasui</module>
     </modules>
 </project>

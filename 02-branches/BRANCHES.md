@@ -338,3 +338,14 @@ card name enumeration problem:
 - Read an integer number from 6 to 14, meaning a card.
 
 - Output the name of this card.
+
+The playing card suits are assigned numbers: spades - 1, clubs -2,
+diamonds - 3, hearts - 4. The playing card ranks are are assigned numbers:
+Jack - 11, Queen - 12, King - 13, Ace - 14. Pip cards are assigned numbers
+according their values. Solve the card suit rank problem:
+
+- Read two integer numbers, assuming the number of the suit and the number
+  of the rank of a card.
+
+- Output the name of the rank and the name of the suit. For example, for
+  numbers 4 and 8 output "It is Eight of hearts."
