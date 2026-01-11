@@ -28,5 +28,6 @@
         <module>canam</module>
         <module>rasui</module>
         <module>yedaw</module>
+        <module>monen</module>
     </modules>
 </project>

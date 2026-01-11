@@ -356,3 +356,11 @@ Solve the week day of a year problem:
   number of a day of a non leap year for which the first day is Monday.
 
 - Output the day of the week name of this day.
+
+Solve the month enumeration problem:
+
+- Read an integer number, assuming a number of months passed since the
+  beginning of 2010.
+
+- Output the name of the current month. For example, for the number 2,
+  output that it is March.
