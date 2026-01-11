@@ -364,3 +364,13 @@ Solve the month enumeration problem:
 
 - Output the name of the current month. For example, for the number 2,
   output that it is March.
+
+Solve the yesterday problem:
+
+- Read two integer numbers, assuming the day of a month and the ordinal number
+  of a this month.
+
+- Output the day and month number of the previous day. Assume that the given
+  numbers does not represent January 1st.
+
+  For example, for numbers 16 and 8, output "The previous day is 15 of 8."

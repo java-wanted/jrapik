@@ -29,5 +29,6 @@
         <module>rasui</module>
         <module>yedaw</module>
         <module>monen</module>
+        <module>yesda</module>
     </modules>
 </project>
