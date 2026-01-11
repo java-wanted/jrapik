@@ -27,5 +27,6 @@
         <module>casui</module>
         <module>canam</module>
         <module>rasui</module>
+        <module>yedaw</module>
     </modules>
 </project>

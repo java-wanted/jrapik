@@ -349,3 +349,10 @@ according their values. Solve the card suit rank problem:
 
 - Output the name of the rank and the name of the suit. For example, for
   numbers 4 and 8 output "It is Eight of hearts."
+
+Solve the week day of a year problem:
+
+- Read an integer number from 1 to 365 inclusive, assuming the ordinal
+  number of a day of a non leap year for which the first day is Monday.
+
+- Output the day of the week name of this day.
