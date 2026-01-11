@@ -26,6 +26,8 @@ There are topics of the course:
 
 - [Branches](02-branches/BRANCHES.md)
 
+- [Loops](03-loops/LOOPS.md)
+
 ## AUTHOR
 
   Boris Stankevich <microsoft-wanted@yandex.ru>.
