@@ -374,3 +374,9 @@ Solve the yesterday problem:
   numbers does not represent January 1st.
 
   For example, for numbers 16 and 8, output "The previous day is 15 of 8."
+
+Solve the sum below a limit problem:
+
+- Read four integer numbers.
+
+- Output the sum of those numbers that does not exceed 5.

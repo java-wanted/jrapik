@@ -30,5 +30,6 @@
         <module>yedaw</module>
         <module>monen</module>
         <module>yesda</module>
+        <module>subel</module>
     </modules>
 </project>
